@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ytancarlos
-- 👀 I’m interested in Web development
+- 👋 Hi, I’m @ytancarlos a Computer engineering student and Web developer.
+- 👀 I’m interested in Web development.
 - 🌱 I’m currently learning React and TypeScript
 - 📫 How to reach me -> ytalo_ryan@hotmail.com
 - 🖥️ linkedin -> https://www.linkedin.com/in/ytalo-silva-8187ab22a/
